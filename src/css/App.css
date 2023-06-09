@@ -1,0 +1,30 @@
+
+.title{
+    width: 100%;
+    text-align: center;
+}
+
+.form{
+    background-color: blue;
+    margin: 3rem auto;
+}
+
+.form input{
+    background-color: #4e5d6c;
+    color: white;
+}
+
+.success, .error {
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background: red;
+}
+
